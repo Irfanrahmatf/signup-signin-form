@@ -21,7 +21,7 @@ This project is a web application built with React, Vite, and Tailwind CSS to pr
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/your-project.git
+   https://github.com/Irfanrahmatf/signup-signin-form.git
    ```
 
 2. Navigate to the project directory:
